@@ -1,4 +1,6 @@
-Netflix Nepal Clone
+<h1>
+Netflix Clone Nepal
+</h1>
 <br>
 A very simple Netflix Nepal's landing page clone.
 <br>
