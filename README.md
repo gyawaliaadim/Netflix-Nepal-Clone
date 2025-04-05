@@ -32,5 +32,13 @@ This is one of my first frontend projects. I'm learning the fundamentals of web 
 - CSS
 
 ---
+Some imgs:
+
+![image](https://github.com/user-attachments/assets/aaa9af03-1012-4f65-96ad-e3bbe6cd3c3f)
+![image](https://github.com/user-attachments/assets/e1939784-c31e-4100-b965-9d64438b7375)
+![image](https://github.com/user-attachments/assets/094a5a19-b7fe-4f75-a81b-5faac436cf91)
+![image](https://github.com/user-attachments/assets/bb0459cd-1d22-4688-9373-5b44498b6bd2)
+
+
 
 Feel free to check it out and let me know what you think!
